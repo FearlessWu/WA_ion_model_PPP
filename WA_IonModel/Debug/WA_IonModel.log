@@ -1,0 +1,5 @@
+﻿  Process.cpp
+c:\users\凶悍无比的伍xx\desktop\wa_ionmodel\wa_ionmodel\process.cpp(208): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\凶悍无比的伍xx\desktop\wa_ionmodel\wa_ionmodel\process.cpp(484): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\凶悍无比的伍xx\desktop\wa_ionmodel\wa_ionmodel\process.cpp(741): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  WA_IonModel.vcxproj -> C:\Users\凶悍无比的伍xx\Desktop\WA_IonModel\Debug\WA_IonModel.exe
